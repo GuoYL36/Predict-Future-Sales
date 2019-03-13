@@ -11,10 +11,10 @@ Address: https://www.kaggle.com/c/competitive-data-science-predict-future-sales
       
       		We are asking you to predict total sales for every product and store in the next month. By solving this competition you will be able to apply and enhance your data science skills.
 
-   	Evaluations of this competition:
+   	
+	Evaluations of this competition:
       
       		Submissions are evaluated by root mean squared error (RMSE). True target values are clipped into [0,20] range.
-
 
 
 	Data descriptions:
